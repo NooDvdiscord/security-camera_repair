@@ -1,2 +1,6 @@
 # security-camera_repair
-Hi!! Today I repair a security cam! Everything I know about a cam is that is it from Temu :O! Soo yea quality is not the best! The pcb quality is actually very good and it look good designed!
+Hello!! Today I am repairing a security camera! 
+All I know about the camera is that it's from Temu :O! So yes, the quality is not the best! 
+The PCB quality is actually very good and looks well designed!
+
+Also there are 7 capacitors that don't work! I guess maybe there is some other reason why they are not working!
